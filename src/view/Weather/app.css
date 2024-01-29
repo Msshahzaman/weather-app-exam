@@ -1,0 +1,39 @@
+
+.input-box{
+
+    height: 35px;
+    width: 300px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+
+}
+.btn-search{
+
+    height: 40px;
+    width: 80px auto;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+
+.btn-history{
+
+    height: 40px;
+    width: 80px;
+    border-radius: 10px;
+    border: none;
+    font-size: 18px;
+}
+/* .card{
+    height: 50%;
+    width: 50%;
+    background-color: black;
+    border: 5px solid;
+    margin-left: 23%;
+    position: relative;
+    top: 150px;
+    border-radius: 20px;
+} */
+
